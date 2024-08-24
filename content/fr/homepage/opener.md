@@ -9,6 +9,6 @@ Vous voulez mieux comprendre l'importance de vos choix alimentaire
 
 Vous cherchez la motivation pour établir sereinement une hygiène alimentaire saine
 
-Je vous propose un [dedicated pages](services) de suivi personalisé et adapté à votre situation. 
+Je vous propose un [services](Services) de suivi personalisé et adapté à votre situation. 
 
 > Le ventre gouverne l'esprit. --- proverbe espagnol
