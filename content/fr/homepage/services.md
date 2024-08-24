@@ -1,16 +1,16 @@
 ---
-title: "The Services I Offer"
+title: "Mon offre de services"
 header_menu_title: "Services"
-navigation_menu_title: "My Services"
+navigation_menu_title: "Mes services"
 weight: 2
 header_menu: true
 ---
 
 Feature notice: This section displays options to customize title:
 
-- has a normal section title (`title` = "The Services I Offer"),
+- has a normal section title (`title` = "Mon offre de services"),
 - custom welcome screen title (`header_menu_title` = "Services"),
-- custom navigation menu title (`navigation_menu_title` = "My Services").
+- custom navigation menu title (`navigation_menu_title` = "Mes services").
 
 That is the important part, right? You want to know what I can do for you. This is why I put this right up there into the header menu of the website.
 

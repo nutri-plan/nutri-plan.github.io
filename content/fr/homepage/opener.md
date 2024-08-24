@@ -1,14 +1,10 @@
 ---
-title: "Welcome"
+title: "Bienvenue"
 weight: 1
 ---
 
+Si vous vous dites que vos assiettes ont un impacte insoupconné sur votre santé, si vous voulez mieux comprendre l'importance de vos choix alimentaire et appréhender sereinement une hygiène alimentaire saine, je vous propose un [dedicated pages](service) de suivi personalisé et adapté à votre situation. 
 `Hugo-Scroll` theme alternates colors of sections that are placed on single page.
 The landing screen is meant to be visually striking.
 
-Single-page approach is oriented towards small to medium content length, that won't overwhelm the user.
-You can also delegate lengthier, less important or more sizeable content to [dedicated pages](services).
-
-> The belly rules the mind. --- spanish proverb
-
-By the way this welcome section won't show in the cover menu.
+> Le ventre gouverne l'esprit. --- proverbe espagnol
