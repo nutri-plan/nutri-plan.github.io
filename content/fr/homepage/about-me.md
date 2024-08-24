@@ -10,7 +10,12 @@ You would have to .Resouces.GetMatch via custom shortcode.
 ![Jane Doe](/images/asset-happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg) 
 -->
 ![Nathalie Amrari](/images/static-happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg)
-Titulaire d'une longue expérience dans les soins et la santé en tant qu'infirmière, j'ai exercé dans de nombreux domaine de la santé. Passionnée par la complexité des impactes de nos assiettes sur notre santé, j'ai décidé au cours de ma carrière d'approfondir mes connaissances en Nutrition. 
+Titulaire d'une longue expérience dans les soins et la santé en tant qu'infirmière, j'ai exercé dans de nombreux domaine de la santé. 
+
+Passionnée par la complexité des impactes de nos assiettes sur notre santé, j'ai décidé au cours de ma carrière d'approfondir mes connaissances en Nutrition. 
+
+##### Formations en Nutrition
+
 
 ##### Professional Experience
 
